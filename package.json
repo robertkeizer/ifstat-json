@@ -1,4 +1,13 @@
 {
 	"name": "ifstat-json",
-	"version": "0.0.1"
+	"version": "1.0.0",
+	"keywords": "ifstat network wrapper interface networking json parse cli",
+	"description": "ifstat wrapper that outputs a json object to stdout",
+        "repository": {
+                "type": "git",
+                "url": "https://github.com/robertkeizer/ifstat-json.git"
+        },
+	"bin": {
+		"ifstatjson": "./src/ifstatjson"
+	}
 }
