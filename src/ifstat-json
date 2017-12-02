@@ -62,6 +62,7 @@ const handleDataLines = function( dataLines ){
 	for( var interfaceCounter=0; interfaceCounter<currentState.interfaces.length; interfaceCounter++ ){
 		_obj.interfaces[currentState.interfaces[interfaceCounter]] = inOut( _columns.splice(0,2).map( function( v ){ return parseFloat(v); } ) );
 	}
+	console.log( _obj );
 	console.log( JSON.stringify( _obj ) );
 };
 
