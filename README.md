@@ -1,2 +1,5 @@
 # ifstat-json
-Wraps ifstat to provide json output
+
+Under active development.
+
+Seriously; Don't use.
