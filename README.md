@@ -1,6 +1,6 @@
 ## Overview
 
-Wrapper for the `ifstat` command that outputs JSON objects.
+Wrapper for the `ifstat` command; Parses and outputs JSON objects.
 
 ## Installation
 
