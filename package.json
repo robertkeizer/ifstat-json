@@ -8,6 +8,6 @@
                 "url": "https://github.com/robertkeizer/ifstat-json.git"
         },
 	"bin": {
-		"ifstatjson": "./src/ifstatjson"
+		"ifstat-json": "./src/ifstat-json"
 	}
 }
